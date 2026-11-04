@@ -1,0 +1,18 @@
+{
+  "name": "@luiss2080/fefo-lotes",
+  "version": "1.0.0",
+  "description": "Asignación FEFO (primero en vencer, primero en salir) de stock por lotes: respeta vida útil mínima, decimales y lotes sin vencimiento.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["fefo","inventory","inventario","lotes","pos","farmacia","expiry"],
+  "author": "Luis Rocha <https://github.com/Luiss2080>",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/fefo-lotes.git" },
+  "bugs": "https://github.com/Luiss2080/fefo-lotes/issues",
+  "homepage": "https://github.com/Luiss2080/fefo-lotes#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com", "access": "public" }
+}
