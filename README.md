@@ -1,9 +1,9 @@
-# @luiss2080/fefo-lotes
+# LoteFlow
 
 Asignación **FEFO** (*First Expired, First Out*) de stock por lotes. Pensado para farmacias, panaderías, verdulerías y tiendas de barrio donde importa vender primero lo que vence antes.
 
 ```js
-import { asignarFEFO, porVencer } from '@luiss2080/fefo-lotes';
+import { asignarFEFO, porVencer } from '@luiss2080/loteflow';
 
 const lotes = [
   { id: 'L1', cantidad: 5,  vence: '2026-11-10' },
@@ -33,7 +33,7 @@ Se publica en GitHub Packages. Agrega a tu `.npmrc`:
 ```
 
 ```bash
-npm install @luiss2080/fefo-lotes
+npm install @luiss2080/loteflow
 ```
 
 > GitHub Packages pide autenticarse (token con `read:packages`) incluso para paquetes públicos.
