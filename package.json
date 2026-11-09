@@ -1,6 +1,6 @@
 {
   "name": "@luiss2080/loteflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asignación FEFO (primero en vencer, primero en salir) de stock por lotes: respeta vida útil mínima, decimales y lotes sin vencimiento.",
   "type": "module",
   "main": "index.js",
