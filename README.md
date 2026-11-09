@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="docs/assets/logo.svg" width="96" alt="Logo de LoteFlow" />
   <h1>📦 LoteFlow</h1>
   <p><b>Asignación FEFO (primero en vencer, primero en salir) de stock por lotes: vida útil mínima, decimales y lotes sin vencimiento.</b></p>
   <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue?style=for-the-badge" alt="Versión 1.0.0" />
@@ -88,7 +89,7 @@ npm test # usa node:test, sin dependencias
 
 ## 🤝 Contribuir
 
-¡Las contribuciones son bienvenidas! Para bugs o ideas abre un issue y, antes de enviar un PR, corre `npm test` para confirmar que todo pasa.
+¡Las contribuciones son bienvenidas! Lee la [guía de contribución](CONTRIBUTING.md) y el [código de conducta](CODE_OF_CONDUCT.md) antes de abrir un PR. Para bugs o ideas abre un issue; los problemas de seguridad se reportan según la [política de seguridad](SECURITY.md). ¿Dudas? Mira [SUPPORT.md](SUPPORT.md). Los cambios por versión están en el [CHANGELOG](CHANGELOG.md).
 
 ## 📄 Licencia
 
