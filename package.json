@@ -1,5 +1,5 @@
 {
-  "name": "@luiss2080/fefo-lotes",
+  "name": "@luiss2080/loteflow",
   "version": "1.0.0",
   "description": "Asignación FEFO (primero en vencer, primero en salir) de stock por lotes: respeta vida útil mínima, decimales y lotes sin vencimiento.",
   "type": "module",
@@ -11,8 +11,8 @@
   "author": "Luis Rocha <https://github.com/Luiss2080>",
   "license": "MIT",
   "engines": { "node": ">=18" },
-  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/fefo-lotes.git" },
-  "bugs": "https://github.com/Luiss2080/fefo-lotes/issues",
-  "homepage": "https://github.com/Luiss2080/fefo-lotes#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/LoteFlow.git" },
+  "bugs": "https://github.com/Luiss2080/LoteFlow/issues",
+  "homepage": "https://github.com/Luiss2080/LoteFlow#readme",
   "publishConfig": { "registry": "https://npm.pkg.github.com", "access": "public" }
 }
